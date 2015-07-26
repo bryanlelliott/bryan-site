@@ -1,3 +1,9 @@
-#jumboBar h1 {
-	color: purple;
+#navbar {
+	display: none;
+	background-color: #7519FF;
+	vertical-align: middle;
+}
+#navbar #name {
+	color: white;
+	font-weight: lighter;
 }

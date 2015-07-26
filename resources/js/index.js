@@ -1,5 +1,6 @@
 $(document).ready(function(){
-	$("#jumboBar").click(function(){
-		this.animate({top: '250px'});
-	});
+	$("#navbar").fadeIn(3000);
+	// $("#jumboBar").click(function(){
+	// 	this.animate({top: '250px'});
+	// });
 });
